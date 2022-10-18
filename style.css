@@ -1,34 +1,35 @@
 h1 {
- color: B720D2;
- font-size: 60px;
- font-style: italic;
- text-align: center;
+    color: B720D2;
+    font-size: 65px;
+    font-style: italic;
+    text-align: center;
 }
 
 h2 {
- color: red;
- text-align: center;
- font-family: "American Typewiter, serif";
+    color: red;
+    text-align: center;
+    font-family: "American Typewiter, serif";
+    font-size: 30px;
 }
 
-.batima {
-color: blue;
+p {
+    font-size: 20px;
 }
 
 img {
- display: block;
- margin: 0 auto;
+    display: block;
+    margin: 0 auto;
 }
 
 body {
- width: 1000px;
- margin: 0 auto;
- background-color: #000000;
- padding: 0 20px 20px 20px;
- border: 5px solid black;
- color: white;
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #000000;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    color: white;
 }
 
 footer {
-color: white;
+    color: white;
 }
